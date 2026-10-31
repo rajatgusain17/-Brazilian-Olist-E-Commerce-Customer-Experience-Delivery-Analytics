@@ -73,7 +73,7 @@ The raw CSV files are not included in this repository. Please download them from
 - **Dashboard design** helped organise findings into a clear visual story.
 - **DAX examples** document how selected metrics could be implemented in a future Power BI report.
 
-**Project status:** Python and SQL analyses were performed, and static dashboard designs were prepared. An interactive Power BI dashboard has not yet been completed or published.
+**Project status:** Python and SQL analyses were performed, and static dashboard designs were prepared. An interactive Power BI dashboard has  been completed.
 
 ---
 
