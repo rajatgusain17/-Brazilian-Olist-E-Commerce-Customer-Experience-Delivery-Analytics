@@ -180,7 +180,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Business Overview Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/Dashboard%20Overview.png?raw=true)
+![Business Overview Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/dashboard/Dashboard%20Overview.png?raw=true)
 
 
 ---
@@ -201,7 +201,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Delivery Performance Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_delivery.png?raw=true)
+![Delivery Performance Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/dashboard/olist_dashboard_delivery.png?raw=true)
 
 
 ---
@@ -222,7 +222,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Sales and Product Categories Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_sales.png?raw=true)
+![Sales and Product Categories Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/dashboard/olist_dashboard_sales.png?raw=true)
 
 
 ---
@@ -242,7 +242,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot placeholder:**
 
-![Customer Geography Dashboard ](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_geography.png?raw=true)
+![Customer Geography Dashboard ](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/dashboard/olist_dashboard_geography.png?raw=true)
 
 ---
 
@@ -260,7 +260,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot placeholder:**
 
-![Customer Experience and Reviews Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_customer_experience.png?raw=true)
+![Customer Experience and Reviews Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/dashboard/olist_dashboard_customer_experience.png?raw=true)
 
 ---
 
