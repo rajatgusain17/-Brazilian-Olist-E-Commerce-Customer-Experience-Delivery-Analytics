@@ -201,9 +201,8 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Delivery Performance Dashboard](dashboard/olist_dashboard_delivery.png)
+![Delivery Performance Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_delivery.png?raw=true)
 
-[Open the delivery dashboard image](dashboard/olist_dashboard_delivery.png)
 
 ---
 
