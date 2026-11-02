@@ -180,9 +180,8 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Business Overview Dashboard](dashboard/olist_dashboard_overview.png)
+![Business Overview Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/Dashboard%20Overview.png?raw=true)
 
-[Open the overview dashboard image](dashboard/olist_dashboard_overview.png)
 
 ---
 
