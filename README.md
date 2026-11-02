@@ -243,7 +243,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot placeholder:**
 
-<!-- Add your Customer Geography dashboard screenshot here when available. -->
+![Customer Geography Dashboard ](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_geography.png?raw=true)
 
 ---
 
