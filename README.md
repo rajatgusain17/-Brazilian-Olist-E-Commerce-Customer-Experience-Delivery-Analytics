@@ -47,11 +47,7 @@ The dataset contains approximately 100,000 orders and multiple related CSV files
 | Products | 32,951 | Product details and categories |
 | Sellers | 3,095 | Seller information |
 | Geolocation | 1,000,163 | Geographic reference data |
-| Category Translation | 71 | Translation of Portuguese category names |
-
-*Record counts can vary slightly between source files and imported tables.*
-
-The raw CSV files are not included in this repository. Please download them from the original source and follow the dataset's usage terms.
+| Category Translation | 71 | Translation of Portuguese category names    
 
 ---
 
