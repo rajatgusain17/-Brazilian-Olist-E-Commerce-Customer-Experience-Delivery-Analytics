@@ -262,7 +262,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot placeholder:**
 
-<!-- Add your Customer Experience dashboard screenshot here when available. -->
+![Customer Experience and Reviews Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_customer_experience.png?raw=true)
 
 ---
 
