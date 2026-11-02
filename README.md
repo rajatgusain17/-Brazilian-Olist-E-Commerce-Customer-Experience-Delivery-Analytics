@@ -190,8 +190,8 @@ The dashboard concept is divided into five areas. Each area answers a different 
 **Objective:** Evaluate delivery reliability and identify regional differences.
 
 **Planned visuals:**
-- On-time versus late delivery doughnut chart.
-- Late-delivery rate by state using a horizontal bar chart.
+- On-time versus late delivery chart.
+- Late-delivery rate by state using a  bar chart.
 - Average review score by delivery status.
 - KPI cards for on-time and late deliveries.
 
@@ -211,7 +211,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 **Objective:** Understand which product categories contribute most to delivered product sales and how sales change over time.
 
 **Planned visuals:**
-- Horizontal bar chart of top product categories.
+- Bar chart of top product categories.
 - Monthly delivered product sales line chart.
 - KPI card for delivered product sales.
 - Category comparison table.
@@ -233,8 +233,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Planned visuals:**
 - Bar chart of delivered customers by state.
-- Bar chart of delivered product sales by state.
-- Optional map visual for geographic comparison.
+- Bar chart of delivered product sales by state.   
 - Table comparing state-level late-delivery rates.
 
 **Business question:** Which regions contribute most to sales, and where might logistics need attention?
@@ -253,8 +252,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Planned visuals:**
 - Average review score by delivery status.
-- Bar chart showing review-score distribution.
-- Optional trend chart for average review scores over time.
+- Bar chart showing review-score distribution.      
 
 **Business question:** How do review scores differ between on-time and late deliveries?
 
