@@ -222,9 +222,8 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 **Screenshot:**
 
-![Sales and Product Categories Dashboard](dashboard/olist_dashboard_sales.png)
+![Sales and Product Categories Dashboard](https://github.com/rajatgusain17/-Brazilian-Olist-E-Commerce-Customer-Experience-Delivery-Analytics/blob/main/olist_dashboard_sales.png?raw=true)
 
-[Open the sales dashboard image](dashboard/olist_dashboard_sales.png)
 
 ---
 
