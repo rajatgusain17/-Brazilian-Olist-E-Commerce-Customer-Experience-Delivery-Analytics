@@ -69,7 +69,7 @@ The dataset contains approximately 100,000 orders and multiple related CSV files
 - **Dashboard design** helped organise findings into a clear visual story.
 - **DAX examples** document how selected metrics could be implemented in a future Power BI report.
 
-**Project status:** Python and SQL analyses were performed, and static dashboard designs were prepared. An interactive Power BI dashboard has  been completed.
+**Project status:** Python and SQL analyses were performed, and static dashboard designs were prepared. An interactive Power BI dashboard has not yet been completed.
 
 ---
 
