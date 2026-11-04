@@ -4,7 +4,7 @@
 
 **Project Type:** Data Analytics | **Domain:** E-Commerce | **Level:** Beginner / Portfolio Project
 
-**Tools:** Python · pandas · MySQL · SQL · Data Visualization · Power BI Dashboard Design
+**Tools:** Python · pandas · MySQL · SQL · Data Visualization · Power BI (static dashboard designs; interactive report planned)
 
 ---
 
@@ -69,7 +69,7 @@ The dataset contains approximately 100,000 orders and multiple related CSV files
 - **Dashboard design** helped organise findings into a clear visual story.
 - **DAX examples** document how selected metrics could be implemented in a future Power BI report.
 
-**Project status:** Python and SQL analyses were performed, and static dashboard designs were prepared. An interactive Power BI dashboard has not yet been completed.
+**Project status:** Python and SQL analyses were performed, the complete SQL script is published in this repository, and static dashboard designs were prepared. An interactive Power BI dashboard has not yet been completed.
 
 ---
 
@@ -94,9 +94,9 @@ The dataset contains approximately 100,000 orders and multiple related CSV files
 | Delivered orders as a share of all orders | 97.02% |
 | Delivered orders with assessable delivery dates | 96,470 |
 | On-time deliveries | 88,644 |
-| On-time delivery rate | 91.88% |
+| On-time delivery rate | 91.89% |
 | Late deliveries | 7,826 |
-| Late delivery rate | 8.12% |
+| Late delivery rate | 8.11% |
 | Delivered product sales | R$13,221,498.11 |
 
 **Metric definitions:**
@@ -147,6 +147,22 @@ São Paulo recorded approximately R$5.07 million in delivered product sales and 
 The late-delivery rate was 13.47% in Rio de Janeiro compared with 5.89% in São Paulo.
 
 **Business insight:** São Paulo is an important market, while state-level delivery differences suggest opportunities to investigate regional logistics performance. Late-delivery rates should be considered alongside order volumes.
+
+### F. Repeat Customer Behaviour
+
+Among 93,358 unique customers with at least one delivered order:
+
+- 2,801 were repeat customers.
+- 90,557 placed one delivered order.
+- The repeat-customer rate was 3.00%.
+
+**Business insight:** The low repeat-customer share suggests an opportunity to investigate retention. Loyalty offers, post-purchase communication, and customer feedback analysis could be tested, then evaluated using repeat-purchase metrics.
+
+### G. Lowest-Selling Product Categories
+
+In the delivered-order category analysis, Security & Services had the lowest item count (2 items; R$283.29 in item sales), followed by Fashion Children's Clothes (7 items; R$519.95).
+
+**Business insight:** Low sales volume alone does not prove that a category is unprofitable. The business should review demand, margins, stock availability, and product visibility before deciding whether to change its assortment.
 
 ### E. Customer Experience
 
@@ -266,7 +282,7 @@ The dashboard concept is divided into five areas. Each area answers a different 
 
 ## 💻 9. SQL Analysis Examples
 
-The project used SQL to analyse order status, delivery performance, product sales, customer geography, and review scores.
+The complete 12-section SQL analysis script is available here: [Olist_Analytics_Queries.sql](Olist_Analytics_Queries.sql). It covers business KPIs, order status, monthly sales, delivery performance, state-level analysis, product categories, review scores, customer satisfaction, and repeat purchasing.
 
 The examples below illustrate the calculation logic. Table and column names may need to be adjusted to match the final imported schema.
 
@@ -451,7 +467,7 @@ These recommendations are proposed actions, not claims that business changes hav
 ## ⚠️ 13. Data Quality, Limitations, and Assumptions
 
 - Eight delivered orders did not have actual delivery dates and were excluded from the assessable delivery calculation.
-- The on-time and late rates use 96,470 assessable delivered orders as the denominator.
+- The on-time and late rates use 96,470 assessable delivered orders as the denominator. The current SQL result is 88,644 on-time and 7,826 late deliveries (91.89% and 8.11%, respectively, rounded).
 - Some orders have multiple review records; review comparisons require order-level aggregation.
 - The average delivery-time results from earlier Python and SQL checks differed slightly (12.56 versus 12.50 days). This discrepancy should be reconciled before reporting a single final average.
 - Product sales represent item prices and exclude freight; they are not profit.
@@ -478,7 +494,7 @@ Through this project, I practised:
 ## 🚀 15. Future Improvements
 
 - Reconcile all Python and SQL metrics and document the final calculation rules.
-- Save and publish the complete SQL query file.
+- Continue validating and documenting the published SQL query file.
 - Include the cleaned and documented Python notebook.
 - Build and validate an interactive Power BI dashboard when suitable hardware is available.
 - Add customer review distributions and monthly trends.
